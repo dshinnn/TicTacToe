@@ -1,5 +1,5 @@
-<h1 align="center"Tic-Tac-Toe</h1>
-<p align="center"><strong>Tic-Tac-Toe Game</strong>
+<h1 align="center">Tic-Tac-Toe</h1>
+<p align="center"><strong>Game of Tic-Tac-Toe</strong>
 </p>
 <h2>About</h2>
     This school project demonstrated the practical usage of programming using the material we have learned thus far during the semester.
